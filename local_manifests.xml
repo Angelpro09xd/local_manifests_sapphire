@@ -26,7 +26,7 @@
 
     <!-- Vendor - Common -->
     <!-- Hardware -->
-    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="Evolution-X-Devices" revision="vic" />
+    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="Evolution-X-Devices" revision="vic-qpr1" />
 
 />
 
