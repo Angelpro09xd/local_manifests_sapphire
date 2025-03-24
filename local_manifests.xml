@@ -21,7 +21,7 @@
     <!-- Kernel -->
 
     <!-- Vendor -->
-    <project path="vendor/xiaomi/sapphire" name="vendor_xiaomi_sapphire" remote="saroj-nokia" revision="15" />
+    <project path="vendor/xiaomi/sapphire" name="vendor_xiaomi_sapphire" remote="saroj-nokia" revision="15-wip" />
     <project path="vendor" name="keys-for-lineage20" remote="saroj-nokia" revision="main" />
     <project path="vendor/gapps" name="vendor_gapps15" remote="Saroj-Tajpuriya" revision="vic" />
 
