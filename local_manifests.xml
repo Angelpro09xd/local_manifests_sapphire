@@ -14,7 +14,7 @@
     <!-- Device -->
     <project path="device/xiaomi/sapphire-kernel" name="device_xiaomi_sapphire-kernel" remote="saroj-nokia" revision="15" />
     <project path="device/xiaomi/sepolicy" name="device_xiaomi_sepolicy" remote="sapphire-sm6225" revision="15" />
-    <project path="device/xiaomi/sapphire" name="device_xiaomi_sapphire" remote="Angelpro09xd" revision="vic" />
+    <project path="device/xiaomi/sapphire" name="device_xiaomi_sapphire" remote="Angelpro09xd" revision="lineage22.2-wip" />
 
     <!-- Device - Common -->
 
