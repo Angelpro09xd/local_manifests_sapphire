@@ -14,14 +14,14 @@
     <!-- Device -->
     <project path="device/xiaomi/sapphire-kernel" name="device_xiaomi_sapphire-kernel" remote="saroj-nokia" revision="15" />
     <project path="device/xiaomi/sepolicy" name="device_xiaomi_sepolicy" remote="sapphire-sm6225" revision="15" />
-    <project path="device/xiaomi/sapphire" name="device_xiaomi_sapphire" remote="Angelpro09xd" revision="lineage-22.2-wip" />
+    <project path="device/xiaomi/sapphire" name="device_xiaomi_sapphire" remote="Angelpro09xd" revision="vic" />
 
     <!-- Device - Common -->
 
     <!-- Kernel -->
     
     <!-- Vendor -->
-    <project path="vendor/xiaomi/sapphire" name="vendor_xiaomi_sapphire" remote="Angelpro09xd" revision="15-wip" />
+    <project path="vendor/xiaomi/sapphire" name="vendor_xiaomi_sapphire" remote="Angelpro09xd" revision="15" />
     <project path="vendor" name="keys-for-lineage20" remote="saroj-nokia" revision="main" />
 
 
