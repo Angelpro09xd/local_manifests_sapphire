@@ -5,7 +5,7 @@
     <!-- Remotes -->
     <remote name="sapphire-sm6225" fetch="https://github.com/sapphire-sm6225" clone-depth="1" />
     <remote name="saroj-nokia" fetch="https://github.com/saroj-nokia" clone-depth="1" />
-    <remote name="Saroj-Tajpuriya" fetch="https://gitlab.com/Saroj-Tajpuriya" clone-depth="1" />
+    <remote name="MindTheGapps" fetch="https://gitlab.com/MindTheGapps" clone-depth="1" />
     <remote name="Evolution-X-Devices" fetch="https://github.com/Evolution-X-Devices" clone-depth="1" />
 
     <!-- Removals -->
@@ -23,7 +23,7 @@
     <!-- Vendor -->
     <project path="vendor/xiaomi/sapphire" name="vendor_xiaomi_sapphire" remote="saroj-nokia" revision="lineage-22.2" />
     <project path="vendor" name="keys-for-lineage20" remote="saroj-nokia" revision="main" />
-    <project path="vendor/gapps" name="vendor_gapps15" remote="Saroj-Tajpuriya" revision="vic" />
+    <project path="vendor/gapps" name="vvendor_gapps" remote="MindTheGapps" revision="vic" />
 
 
     <!-- Vendor - Common -->
